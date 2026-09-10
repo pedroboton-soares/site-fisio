@@ -27,7 +27,7 @@ Não precisa de instalação. Basta dar dois cliques no arquivo `index.html`. É
 
 - Sistema operacional: Windows
 - Editor de texto: VS Code
-- Navegador usado para testar: [preencher, ex: Chrome, Edge]
+- Navegador usado para testar: Microsoft Edge
 
 ## 6. Qual IA foi usada, com a versão
 
