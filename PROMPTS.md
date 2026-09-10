@@ -59,7 +59,3 @@ Essa correção não veio de um pedido pra IA, veio de mim, revisando o código 
 ## Etapa 8 - Teste
 
 Testei o site (abrir com dois cliques, sem servidor) e confirmei que está funcionando.
-
----
-
-**Quem revisou o resultado final:** [outra conversa / outra ferramenta / você mesmo testando, recomenda-se os dois: revisão por IA + revisão sua]
