@@ -54,7 +54,17 @@ Essa correção não veio de um pedido pra IA, veio de mim, revisando o código 
 
 ## Etapa 7 - Revisão em outra conversa/ferramenta
 
-[colar o prompt de revisão usado, e o retorno resumido: o que foi marcado como cumprido, não cumprido, ou pela metade]
+Você vai revisar um site que OUTRA PESSOA escreveu.
+
+[Enviado .html e REQUISITOS.md]
+
+Confira requisito por requisito (funcional e não funcional) e diga, para
+cada um: cumprido, não cumprido, ou cumprido pela metade, apontando a
+linha do código correspondente.
+
+Depois liste os problemas que você achou e que NÃO estão nos requisitos.
+
+Não reescreva o site. Não elogie.
 
 ## Etapa 8 - Teste
 
