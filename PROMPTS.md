@@ -81,5 +81,3 @@ O retorno marcou os 10 requisitos funcionais e os 7 não funcionais como cumprid
 Testei o site (abrir com dois cliques, sem servidor) e confirmei que está funcionando.
 
 ---
-
-**Quem revisou o resultado final:** revisão por IA (conversa separada, prompt de revisão) + revisão sua (teste manual do site, etapa 8).
