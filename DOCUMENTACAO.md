@@ -26,11 +26,11 @@ Não precisa de instalação. Basta dar dois cliques no arquivo `index.html`. É
 ## 5. Ambiente de desenvolvimento
 
 - Sistema operacional: Windows
-- Editor de texto: [preencher, ex: VS Code, Bloco de Notas]
+- Editor de texto: VS Code
 - Navegador usado para testar: [preencher, ex: Chrome, Edge]
 
 ## 6. Qual IA foi usada, com a versão
 
 - Plano da estrutura: pedido ao ChatGPT, Gemini e Perplexity (mesmo prompt nos três), e combinado num plano final.
 - Código (HTML, CSS, JS e integração do AOS): ChatGPT, modelo 1.2026.244 (33940143573).
-- Revisão: [preencher depois de rodar a etapa 7]
+- Revisão: Feita pelo Gemini. (Prompt utilizado está no outro arquivo com os prompts).
